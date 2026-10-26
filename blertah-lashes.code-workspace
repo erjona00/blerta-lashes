@@ -1,0 +1,4 @@
+{
+  "folders": [{ "path": ".", "name": "Blertah Lashes · React" }],
+  "settings": { "files.exclude": { "**/node_modules": true, "**/dist": true } }
+}

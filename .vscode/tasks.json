@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Nis website-in", "type": "npm", "script": "dev", "isBackground": true, "problemMatcher": [] },
+    { "label": "Ndërto për publikim", "type": "npm", "script": "build", "group": { "kind": "build", "isDefault": true }, "problemMatcher": [] }
+  ]
+}
